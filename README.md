@@ -9,7 +9,7 @@ So_long consists in creating a 2 dimensional game, where the player must collect
 - Event Handling: Capturing keyboard and mouse events, to control the player and close the game; implementing player movement logic based on these events; detecting colisions between the player and map elements. 
 - Resource Management: Managing game resources such as textures and maps is a key aspect of the project development.
 - Data Structures Organization: Working with different structs for position, image, map and game made the game logic easier to understand, modify, and potentially reuse in future projects.
-- 
+
 # Map
 The map needs to be constructed with the following rules:
 - Must contain these elements: WALL:``1``, FLOOR:``0``, PLAYER:``P``, COLLECTIBLE:``C``, EXIT:``E`` and, for the bonus part, ENEMY:``J``.
